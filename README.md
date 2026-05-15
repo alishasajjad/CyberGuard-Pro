@@ -329,6 +329,8 @@ streamlit run app.py --server.port 8502
 - **Features**: 6 major feature sets
 - **UI Components**: 15+ interactive elements
 
+## Demo Video
+- https://youtu.be/AuSojY0cK1o
 ---
 
 **⚡ Built with passion for cybersecurity and modern web development**
