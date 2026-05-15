@@ -307,16 +307,12 @@ rm users.db
 streamlit run app.py --server.port 8502
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Alisha Sajjad**
+**Zarmeen Rasool**
 - Project: 4th Semester Information Security
-- Institution: [Your Institution Name]
-- Contact: [Your Email]
+- Contact: dev.alishasajjad@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -336,5 +332,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⚡ Built with passion for cybersecurity and modern web development**
-
-*Last Updated: [Current Date]* 
