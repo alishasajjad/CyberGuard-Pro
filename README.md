@@ -72,7 +72,7 @@ Information_Security/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <https://github.com/alishasajjad/CyberGuard-Pro>
+git clone https://github.com/alishasajjad/CyberGuard-Pro
 cd Information_Security
 ```
 
