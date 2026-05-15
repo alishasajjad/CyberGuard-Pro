@@ -62,7 +62,6 @@ Information_Security/
 ├── requirements.txt                # Python dependencies
 ├── users.db                        # SQLite user database
 ├── README.md                       # Project documentation
-└── documentation_Information_Security.docx  # Additional docs
 ```
 
 ## 🚀 Installation & Setup
@@ -73,7 +72,7 @@ Information_Security/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/alishasajjad/CyberGuard-Pro>
 cd Information_Security
 ```
 
@@ -313,6 +312,7 @@ streamlit run app.py --server.port 8502
 **Zarmeen Rasool**
 - Project: 4th Semester Information Security
 - Contact: dev.alishasajjad@gmail.com
+- Contact: devzarmeenrasool@gmail.com
 
 ## 🙏 Acknowledgments
 
